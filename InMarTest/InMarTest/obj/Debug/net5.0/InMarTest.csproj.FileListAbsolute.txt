@@ -1,0 +1,16 @@
+C:\Users\mekav\Documents\GitHub\VKRepository\InMarTest\InMarTest\bin\Debug\net5.0\InMarTest.exe
+C:\Users\mekav\Documents\GitHub\VKRepository\InMarTest\InMarTest\bin\Debug\net5.0\InMarTest.deps.json
+C:\Users\mekav\Documents\GitHub\VKRepository\InMarTest\InMarTest\bin\Debug\net5.0\InMarTest.runtimeconfig.json
+C:\Users\mekav\Documents\GitHub\VKRepository\InMarTest\InMarTest\bin\Debug\net5.0\InMarTest.runtimeconfig.dev.json
+C:\Users\mekav\Documents\GitHub\VKRepository\InMarTest\InMarTest\bin\Debug\net5.0\InMarTest.dll
+C:\Users\mekav\Documents\GitHub\VKRepository\InMarTest\InMarTest\bin\Debug\net5.0\ref\InMarTest.dll
+C:\Users\mekav\Documents\GitHub\VKRepository\InMarTest\InMarTest\bin\Debug\net5.0\InMarTest.pdb
+C:\Users\mekav\Documents\GitHub\VKRepository\InMarTest\InMarTest\obj\Debug\net5.0\InMarTest.csprojAssemblyReference.cache
+C:\Users\mekav\Documents\GitHub\VKRepository\InMarTest\InMarTest\obj\Debug\net5.0\InMarTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mekav\Documents\GitHub\VKRepository\InMarTest\InMarTest\obj\Debug\net5.0\InMarTest.AssemblyInfoInputs.cache
+C:\Users\mekav\Documents\GitHub\VKRepository\InMarTest\InMarTest\obj\Debug\net5.0\InMarTest.AssemblyInfo.cs
+C:\Users\mekav\Documents\GitHub\VKRepository\InMarTest\InMarTest\obj\Debug\net5.0\InMarTest.csproj.CoreCompileInputs.cache
+C:\Users\mekav\Documents\GitHub\VKRepository\InMarTest\InMarTest\obj\Debug\net5.0\InMarTest.dll
+C:\Users\mekav\Documents\GitHub\VKRepository\InMarTest\InMarTest\obj\Debug\net5.0\ref\InMarTest.dll
+C:\Users\mekav\Documents\GitHub\VKRepository\InMarTest\InMarTest\obj\Debug\net5.0\InMarTest.pdb
+C:\Users\mekav\Documents\GitHub\VKRepository\InMarTest\InMarTest\obj\Debug\net5.0\InMarTest.genruntimeconfig.cache
